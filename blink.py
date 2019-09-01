@@ -1,3 +1,4 @@
+#!/usr/bin/python
 def blinkLED():
     import RPi.GPIO as GPIO
     import time
